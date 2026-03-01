@@ -1,6 +1,6 @@
 # Movie Review App Test
+<img width="749" height="538" alt="Screenshot 2026-03-01 at 3 46 16 PM" src="https://github.com/user-attachments/assets/7ab79ce3-0983-48f5-8adb-c07bd115d131" />
 
-![Preview](https://via.placeholder.com/800x400?text=App+Preview+Placeholder)
 
 ## Features
 - View trending and popular movies on the Home Screen.
